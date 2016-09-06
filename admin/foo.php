@@ -1,0 +1,26 @@
+
+<script src="../js/bootstrap.min.js"></script>
+<script src="../js/plugins/metisMenu/jquery.metisMenu.js"></script>
+<script src="../js/plugins/slimscroll/jquery.slimscroll.min.js"></script>
+<script src="../js/plugins/jeditable/jquery.jeditable.js"></script>
+<script src="../js/plugins/dataTables/jquery.dataTables.js"></script>
+<script src="../js/plugins/dataTables/dataTables.bootstrap.js"></script>
+<script src="../js/plugins/dataTables/dataTables.responsive.js"></script>
+<script src="../js/plugins/dataTables/dataTables.tableTools.min.js"></script>
+<script src="../js/plugins/dropzone/dropzone.js"></script>
+<script src="../js/inspinia.js"></script>
+<script src="../js/plugins/pace/pace.min.js"></script>
+<script src="../js/plugins/staps/jquery.steps.min.js"></script>
+<script src="../js/plugins/validate/jquery.validate.min.js"></script>
+<script src="../js/plugins/blueimp/jquery.blueimp-gallery.min.js"></script>
+<script src="../js/plugins/chosen/chosen.jquery.js"></script>
+<script src="../js/plugins/jsKnob/jquery.knob.js"></script>
+<script src="../js/plugins/jasny/jasny-bootstrap.min.js"></script>
+<script src="../js/plugins/datapicker/bootstrap-datepicker.js"></script>
+<script src="../js/plugins/nouslider/jquery.nouislider.min.js"></script>
+<script src="../js/plugins/switchery/switchery.js"></script>
+<script src="../js/plugins/ionRangeSlider/ion.rangeSlider.min.js"></script>
+<script src="../js/plugins/iCheck/icheck.min.js"></script>
+<script src="../js/plugins/metisMenu/jquery.metisMenu.js"></script>
+<script src="../js/plugins/colorpicker/bootstrap-colorpicker.min.js"></script>
+<script src="../js/plugins/cropper/cropper.min.js"></script>
